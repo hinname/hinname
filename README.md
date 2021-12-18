@@ -15,9 +15,19 @@ I'm always trying to learn something new, even if it's not directly related to p
 I'm learning the concepts about Web development such as API REST and SPA.
 
 ⚡ Fun fact: I love games and books. I'm studying game development in my free times.
+<div>
+  
+  <a href="https://github.com/hinname/github-readme-stats">
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=hinname&show_icons=true&theme=tokyonight" />
+  </a>
+  
+  <a href="https://github.com/hinname/github-readme-stats">
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinname&layout=compact&theme=tokyonight" />
+  </a>
 
-[![Hinname's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinname&show_icons=true&theme=tokyonight)](https://github.com/hinname/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinname&layout=compact&theme=tokyonight)](https://github.com/hinnamme/github-readme-stats)
+
+</div>
+
 
 ##
 
