@@ -1,6 +1,4 @@
 ### Hello friend!  I'm Herivelton Costa 😄
-
-<a href="https://app.daily.dev/heriveltoncosta"><img src="https://api.daily.dev/devcards/309785f47b2e4de9929645f2c1faa481.png?r=yk7" width="300" alt="Herivelton Costa's Dev Card"/></a>
 <!--
 - 🔭 ,
 !-->
@@ -45,12 +43,13 @@ I'm learning the concepts about Web development such as API REST and SPA.
   
 </div>
 
-
 ##
 
 ### Find me elsewhere 🌎
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herivelton-borges-da-costa-b724361a4/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herivelton.pro@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/herivelton_costa1/)
+
+<a href="https://app.daily.dev/heriveltoncosta"><img src="https://api.daily.dev/devcards/309785f47b2e4de9929645f2c1faa481.png?r=yk7" width="300" alt="Herivelton Costa's Dev Card"/></a>
 
 
