@@ -1,4 +1,4 @@
-### Hello friend!  I'm Herivelton Costa 😄
+### Hello!  I'm Herivelton Costa 😄
 <!--
 - 🔭 ,
 !-->
@@ -13,6 +13,12 @@ I'm always trying to learn something new, even if it's not directly related to p
 I'm learning the concepts about Web development such as API REST and SPA.
 
 ⚡ Fun fact: I love games and books. I'm studying game development in my free times.
+#### My Daily.dev Card
+Extension used to read tech articles
+<div>
+  <a href="https://app.daily.dev/heriveltoncosta"><img src="https://api.daily.dev/devcards/v2/0xjI438ivLmZE5wIPCZKr.png?r=crq&type=wide" width="584" alt="Herivelton Costa's Dev Card"/></a>
+</div>
+
 <div>
   
   <a href="https://github.com/hinname/github-readme-stats">
@@ -49,7 +55,5 @@ I'm learning the concepts about Web development such as API REST and SPA.
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herivelton-borges-da-costa-b724361a4/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herivelton.pro@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/herivelton_costa1/)
-
-<a href="https://app.daily.dev/heriveltoncosta"><img src="https://api.daily.dev/devcards/309785f47b2e4de9929645f2c1faa481.png?r=yk7" width="300" alt="Herivelton Costa's Dev Card"/></a>
 
 
