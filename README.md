@@ -5,7 +5,7 @@
 I love programming because resolving problems with technology is amazing. <br>
 I'm based in Rio de Janeiro, Brazil
 
-Since 2017 studying programming, during my high school, I started with Pascal and Python. Now I'm focusing on Javascript.
+Since 2017 studying programming, during my high school, I started with Pascal and Python. Now I'm focusing on Javascript and C#.
 
 I'm always trying to learn something new, even if it's not directly related to programming, like Marketing or Bussiness in general.
 
