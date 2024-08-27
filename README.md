@@ -11,7 +11,7 @@ I'm always trying to learn something new, even if it's not directly related to p
 
 ### What I'm focusing on 👨‍💻💻
 I'm learning the concepts about Web development such as API REST and SPA.
-Working with .NET and Angular.
+Currenty working with .NET and Angular
 
 #### My Daily.dev Card
 Extension used to read tech articles
