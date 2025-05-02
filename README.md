@@ -12,18 +12,7 @@ I'm always trying to learn something new, even if it's not directly related to p
 ### What I'm focusing on 👨‍💻💻
 I'm learning the concepts about Web development such as API REST and SPA.
 Currenty working with .NET and Angular
-
-#### My Daily.dev Card
-Extension used to read tech articles
 <div>
-  <a href="https://app.daily.dev/heriveltoncosta"><img src="https://api.daily.dev/devcards/v2/0xjI438ivLmZE5wIPCZKr.png?r=crq&type=wide" width="584" alt="Herivelton Costa's Dev Card"/></a>
-</div>
-
-<div>
-  
-  <a href="https://github.com/hinname/github-readme-stats">
-    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=hinname&show_icons=true&theme=tokyonight" />
-  </a>
   
   <a href="https://github.com/hinname/github-readme-stats">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinname&layout=compact&theme=tokyonight" />
