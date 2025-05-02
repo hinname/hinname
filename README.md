@@ -36,15 +36,15 @@ Extension used to read tech articles
 
 <div style="display: inline_block" align="center"> <br>
   
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=30px width=40px />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  height=30px width=40px />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height=30px width=40px />
   
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  height=30px width=40px />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=30px width=40px />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height=30px width=40px />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=30px width=40px />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=30px width=40px />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=30px width=40px />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=30px width=40px />
+  
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height=30px width=40px />
+  
 
   
 </div>
